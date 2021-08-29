@@ -14,6 +14,9 @@
     "lib"
   ],
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "run": "node lib/second-package.js"
+  },
+  "dependencies": {
+    "first-package": "^1.0.0"
   }
 }

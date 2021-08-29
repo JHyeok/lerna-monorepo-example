@@ -1,7 +1,5 @@
-'use strict';
-
-module.exports = firstPackage;
-
-function firstPackage() {
-    // TODO
+function hello() {
+    console.log('Hello, firstPackage!');
 }
+
+module.exports = hello;

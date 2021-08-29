@@ -1,7 +1,3 @@
-'use strict';
+const firstPackageHello = require('first-package');
 
-module.exports = secondPackage;
-
-function secondPackage() {
-    // TODO
-}
+firstPackageHello();
