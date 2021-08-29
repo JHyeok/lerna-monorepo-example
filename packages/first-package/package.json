@@ -1,0 +1,19 @@
+{
+  "name": "first-package",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "JaeHyeok Kim <dev.jhyeok@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/first-package.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
